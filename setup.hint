@@ -1,0 +1,7 @@
+sdesc: "Animated PNG image (APNG) tools"
+ldesc: "Collection of utilities: apng2gif (convert), apngasm (assemble
+APNG from individual PNG images), apngdis (disassemble APNG to
+individual PNG files), apngopt (optimize APNG by reducing size),
+gif2apng (convert animated GIFs to APNG)"
+category: Graphics
+requires: apng2gif apngasm apngdis apngopt gif2apng
