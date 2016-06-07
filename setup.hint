@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Animated PNG image (APNG) tools"
 ldesc: "Collection of utilities: apng2gif (convert), apngasm (assemble
 APNG from individual PNG images), apngdis (disassemble APNG to
